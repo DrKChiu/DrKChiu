@@ -2,7 +2,7 @@
 - I’m passionate about advancing mental health through evidence-based practice and innovative technology. My work bridges clinical psychology, digital mental health, and applied AI, with a focus on young people’s wellbeing.
 
 🔬 Research
-- Focus: mental health conditions (social anxiety and PTSD) and Neurodevelopmental conditions (ADHD, Autism)
+- Focus: mental health conditions (social anxiety and PTSD) and neurodevelopmental conditions (ADHD, Autism)
 - Methods: Qualitative & quantitative research
 - Current Projects: AI, ecological momentary assessment (EMA), digital tools for real-time mental health monitoring
 
