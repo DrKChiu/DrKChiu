@@ -1,5 +1,5 @@
 👋 About Me
-- I’m passionate about advancing mental health through evidence-based practice and innovative technology. My work bridges clinical psychology, digital mental health, and applied AI, with a focus on young people’s wellbeing.
+- I’m passionate about advancing mental health through evidence-based practice and innovative research. My work bridges clinical psychology, digital mental health, and applied AI, with a focus on young people’s wellbeing.
 
 🔬 Research
 - Focus: mental health conditions (social anxiety and PTSD) and neurodevelopmental conditions (ADHD, Autism)
