@@ -2,7 +2,7 @@
 - I'm passionate about advancing **digital mental health** through evidence-based practice and innovative research. My work bridges clinical psychology, digital mental health, and applied AI, with a focus on young people's wellbeing.
 
 ⭐ Highlights
-- 🇬🇧 Led one of the **first definitive RCTs of an online single-session intervention (SSI)** for young people in the UK — [JCPP Advances (2025)](https://acamh.onlinelibrary.wiley.com/doi/10.1002/jcv2.70026)
+- 🇬🇧 Led the **first randomised controlled trial designed to evaluate the efficacy of a digital single-session intervention (SSI)** for young people in the UK — [JCPP Advances (2025)](https://acamh.onlinelibrary.wiley.com/doi/10.1002/jcv2.70026)
 - 📊 Authored a **full meta-analytic review of self-administered single-session interventions** — [Journal of Child Psychology and Psychiatry (2025)](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.70192)
 - 🧪 Built a **mechanism-based adapted intervention platform** for single-case experimental design (SCED) evaluation
 
