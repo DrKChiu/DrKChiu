@@ -13,8 +13,8 @@
 - Mechanism-based intervention design, grounded in the active ingredients of what makes therapy work
 
 🔬 Research
-- Focus: mental health conditions (social anxiety and PTSD) and neurodevelopmental conditions (ADHD, Autism)
-- Methods: Qualitative & quantitative research, RCTs, meta-analysis, and single-case experimental designs (SCED)
+- Focus: social anxiety and PTSD in ADHD and Autism
+- Methods: Qualitative & quantitative research, RCTs, meta-analysis
 - Current Projects: AI, ecological momentary assessment (EMA), digital tools for real-time mental health monitoring, and building ethical and safety frameworks for AI in mental health
 
 🤖 AI for Good
